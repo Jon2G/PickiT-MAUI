@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickiTsample", "PickiTsample.csproj", "{944BD07A-927C-4CBE-8673-35DBB468E44E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickiT-MAUI", "..\..\src\PickiT-MAUI.csproj", "{248E460B-B265-41B3-8339-273EC2B0271C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944BD07A-927C-4CBE-8673-35DBB468E44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944BD07A-927C-4CBE-8673-35DBB468E44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944BD07A-927C-4CBE-8673-35DBB468E44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944BD07A-927C-4CBE-8673-35DBB468E44E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248E460B-B265-41B3-8339-273EC2B0271C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248E460B-B265-41B3-8339-273EC2B0271C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248E460B-B265-41B3-8339-273EC2B0271C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248E460B-B265-41B3-8339-273EC2B0271C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
